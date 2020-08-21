@@ -1,0 +1,19 @@
+body {
+    font-size: 24px;
+  }
+  
+  .placeholder {
+    background-color: pink;
+    margin: 0 4px;
+    padding: 2px 8px;
+  }
+  
+  .placeholder.filled{
+    background-color: lime;
+  }
+
+  form{
+      display:flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+  }
